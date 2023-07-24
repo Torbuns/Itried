@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690156198 source:d:\gl_test\main.cpp
+	<iostream>
+	<filesystem>
+	<vector>
+
